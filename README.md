@@ -12,9 +12,6 @@ I also have my personal github [profile](https://github.com/andremoriya)
 
 Feel free to give me a follow me on Twitter or drop me a DM.
 
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=andre-moriya&show_icons=true)
-
 <!--
 **andre-moriya/andre-moriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
