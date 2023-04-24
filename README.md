@@ -11,7 +11,7 @@ I'm Andre Moriya.
 
 Feel free to give me a follow me on Twitter or drop me a DM.
 
-![Andre Moriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-moriya&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-moriya&show_icons=true&theme=transparent)
 
 <!--
 **andre-moriya/andre-moriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
