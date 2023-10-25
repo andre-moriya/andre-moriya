@@ -2,7 +2,6 @@
 
 I'm Andre Moriya.
 
-- 🔭 I’m currently working on <a href="http://www.epam.com">@EPAM Systems</a> as Software Engineer
 - 😄 I also have my personal github [profile](https://github.com/andremoriya)
 
 ### You can also find me on
